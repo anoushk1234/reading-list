@@ -6,7 +6,7 @@
 - [ ] [The Rust Programming Language](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
 
 ## Papers
-- [ ] [Ethan Buchman's Tendermint Paper](file:///Users/anoushkkharangate/Downloads/Buchman_Ethan_201606_MAsc.pdf)
+- [ ] [Ethan Buchman's Tendermint Paper](https://github.com/anoushk1234/reading-list/blob/main/papers/Buchman_Ethan_201606_MAsc.pdf)
 
 
 ## Random Stuff
