@@ -11,4 +11,4 @@
 
 ## Random Stuff
 - [ ] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
-- [ ] [Race Condition](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
+- [x] [Race Condition](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
