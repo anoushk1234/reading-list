@@ -11,5 +11,5 @@ You can split up the task into chunks and run each chunk on a seperate thread. T
 - easy to implement
 - no shared state so no locks etc
 - can speed up any cpu bound task even after thread results have to be aggregated once all threads have executed
-- produces deterministic results although im not sure about how race conditions are handled
+- produces deterministic results and prevents race conditions provided each thread is completely independent with state
 
