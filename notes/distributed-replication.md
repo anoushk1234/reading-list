@@ -31,3 +31,7 @@ Client makes write req, leader propagates change to all followers and waits for 
 - One sync node failure can cause leader to lock writes until node is back up
 
 Realistically you can maintain one sync node and other async nodes
+
+## Adding new followers
+To make sure new followers have access to node data copy and to prevent write locking the db, we maintain snapshots of the database for new nodes to copy.
+The new node then requests changes from snapshot to current time that have happened and executes to get up to the tip.
