@@ -12,3 +12,5 @@
 ## Random Stuff
 - [ ] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 - [x] [Race Condition](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
+- [ ] Automata Theory and FSM
+- [ ] SMTs
