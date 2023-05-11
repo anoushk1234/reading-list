@@ -13,10 +13,11 @@
 - [ ] [Hot Stuff](https://arxiv.org/pdf/1803.05069.pdf)
 - [ ] [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [ ] [Casper](https://arxiv.org/pdf/1710.09437.pdf)
-
-
+- [x] [Sparse Merkle Trees](https://eprint.iacr.org/2016/683.pdf)
+- [x] [Jellyfish Merkle Tree](https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf)
+ 
 ## Random Stuff
 - [ ] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 - [x] [Race Condition](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
 - [ ] Automata Theory and FSM
-- [x] SMTs
+
