@@ -17,7 +17,16 @@
 - [x] [Jellyfish Merkle Tree](https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf)
  
 ## Random Stuff
-- [ ] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+- [x] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 - [x] [Race Condition](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
 - [ ] Automata Theory and FSM
 
+## Lectures and Concepts
+- [ ] Digital System Design and FPGA
+- [ ] Compiler Design
+
+## Projects
+- [ ] Build a torrent network
+- [ ] Build your own compiler
+- [ ] Accelarate Field Math using FPGA
+- [ ] Implement FFT in Rust
