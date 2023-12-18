@@ -15,6 +15,7 @@
 - [ ] [Casper](https://arxiv.org/pdf/1710.09437.pdf)
 - [x] [Sparse Merkle Trees](https://eprint.iacr.org/2016/683.pdf)
 - [x] [Jellyfish Merkle Tree](https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf)
+- [ ] [STM and Block STM](https://arxiv.org/abs/2203.06871)
  
 ## Random Stuff
 - [x] [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
@@ -23,7 +24,7 @@
 
 ## Lectures and Concepts
 - [ ] Digital System Design and FPGA
-- [ ] Compiler Design
+- [ ] Compiler Design(Crafting Compilers)
 
 ## Projects
 - [ ] Build a torrent network
