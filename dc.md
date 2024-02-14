@@ -1,6 +1,14 @@
 # Book
 1) Database Internals (10 days)
 
+Day 1 - Overview of DC 27P
+Day 2 - Failure Detection 7P
+Day 2 - Leader Election 10P
+Day 3 - Replication and Consistency 25P
+Day 4 - Anti Entropy 12P
+Day 4 - Distributed Transactions 20P
+Day 5 - Consensus 30P
+
 # Lecture
 - https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA
 # Blog
