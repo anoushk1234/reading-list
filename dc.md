@@ -17,6 +17,8 @@ Goal: 30 days(Feb 14 to March 14)
       Day 4 - Distributed Transactions 20P
    
       Day 5 - Consensus 30P
+
+      Day 6 - Transaction Processing 29P
    
 
 # Lecture
@@ -24,6 +26,8 @@ Goal: 30 days(Feb 14 to March 14)
 # Blog
 - https://decentralizedthoughts.github.io/start-here/
 
+# Practice
+- TCP Protocol
 
 ## Papers
 - [ ] [Ethan Buchman's Tendermint Paper](https://github.com/anoushk1234/reading-list/blob/main/papers/Buchman_Ethan_201606_MAsc.pdf)
