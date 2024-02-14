@@ -1,7 +1,10 @@
+# Distributed Computing 
+Goal: 30 days(Feb 14 to March 14)
+
 # Book
 1) Database Internals (10 days)
 
-      Day 1 - Overview of DC 27P 
+      Day 1 - Overview of DC 27P (9/27)
       
       Day 2 - Failure Detection 7P
    
