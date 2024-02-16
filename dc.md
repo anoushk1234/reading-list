@@ -6,7 +6,7 @@ Goal: 30 days(Feb 14 to March 14)
 
       Day 1 - Overview of DC 24P (24/24) (took 2 days actually)
       
-      Day 2 - Failure Detection 7P
+      Day 2 - Failure Detection 9P(9/9)
    
       Day 2 - Leader Election 10P
    
