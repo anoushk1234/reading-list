@@ -21,21 +21,31 @@ Goal: 30 days(Feb 14 to March 14)
       Day 6 - Transaction Processing 29P
    
 
-# Lecture
+## Lecture
 - https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA
-# Blog
+- https://www.youtube.com/watch?v=K5ph4-7vvHk (Narhwal and Tusk)
+## Blog
 - https://decentralizedthoughts.github.io/start-here/
 
-# Practice
+## Practice
 - TCP Protocol
 
 ## Papers
 - [ ] [Ethan Buchman's Tendermint Paper](https://github.com/anoushk1234/reading-list/blob/main/papers/Buchman_Ethan_201606_MAsc.pdf)
 - [ ] [Gasper](https://arxiv.org/pdf/2003.03052.pdf)
 - [ ] [Bullshark](https://arxiv.org/pdf/2201.05677.pdf)
+- [ ] [Shoal](https://arxiv.org/pdf/2306.03058.pdf)
 - [ ] [Hot Stuff](https://arxiv.org/pdf/1803.05069.pdf)
 - [ ] [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+- [ ] [All you need is DAG](https://arxiv.org/pdf/2102.08325.pdf)
 - [ ] [Casper](https://arxiv.org/pdf/1710.09437.pdf)
+
 - [x] [Sparse Merkle Trees](https://eprint.iacr.org/2016/683.pdf)
 - [x] [Jellyfish Merkle Tree](https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf)
 - [ ] [STM and Block STM](https://arxiv.org/abs/2203.06871)
+
+## Extras
+https://dinhtta.github.io/pbft/
+https://cse.buffalo.edu/~stevko/courses/cse486/spring13/lectures/26-consistency2.pdf
+https://hackmd.io/@0xtrojan/mev_meets_dag
+https://www.cs.montana.edu/courses/spring2004/440/topics/15-transport/lectures/slideset2.pdf
