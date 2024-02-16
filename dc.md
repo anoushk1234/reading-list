@@ -56,3 +56,4 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
 - [Consistency v Linearizability](https://cse.buffalo.edu/~stevko/courses/cse486/spring13/lectures/26-consistency2.pdf)
 - [MEV meets DAG](https://hackmd.io/@0xtrojan/mev_meets_dag)
 - [TCP State Machine](https://www.cs.montana.edu/courses/spring2004/440/topics/15-transport/lectures/slideset2.pdf)
+- [Shoal by Alexander Spiegelman at A16z Crypto Research](https://youtu.be/Ne0opDqzn6Y?feature=shared)
