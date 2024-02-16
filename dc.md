@@ -24,7 +24,7 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
    
 
 ## Lecture
-- [Time Roughgarden](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
+- [Tim Roughgarden](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
 - [Narhwal and Tusk - Albert Sonnino](https://www.youtube.com/watch?v=K5ph4-7vvHk)
 
 ## Blog
