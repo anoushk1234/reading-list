@@ -1,10 +1,17 @@
 # reading-list
 
+## Sprints
+I do sprints of learning inpsired by Scott Young's [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) where he completes MIT's 4 year undegrad CS program
+in 12 months. These sprints are usually 15-30 days and focus on building foundational knowledge.
+
+1) [Distributed Systems](/dc.md) (In-progress)
+
 ## Books
 - [ ] [Programming Rust: Fast, Safe Systems Development](http://bzz.wallizard.com:8081/share/books/RUST/Programming%20Rust%202nd%20Edition.pdf) (In-progress)
 - [ ] [Designing Data-Intensive Applications](https://raw.githubusercontent.com/ms2ag16/Books/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf) (In-progress)
 - [ ] [The Rust Programming Language](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
 - [ ] [Modern OS by Andrew Tanenbaum](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)(In-Progress)
+- [ ] [Database Internals](https://databass.dev)(In-Progress)
 
 ## Papers
 - [ ] [Ethan Buchman's Tendermint Paper](https://github.com/anoushk1234/reading-list/blob/main/papers/Buchman_Ethan_201606_MAsc.pdf)
