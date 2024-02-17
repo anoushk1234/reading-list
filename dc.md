@@ -10,7 +10,7 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
       
       Day 2 - Failure Detection 9P(9/9)
    
-      Day 2 - Leader Election 10P
+      Day 2 - Leader Election 10P(1/10)
    
       Day 3 - Replication and Consistency 25P
    
