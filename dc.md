@@ -6,11 +6,11 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
 # Book
 1) Database Internals (10 days)
 
-      Day 1 - Overview of DC 24P (24/24) (took 2 days actually)
+      Day 1 - Overview of DC 24P (24/24) (took 2 days actually) 14th and 15th Feb
       
-      Day 2 - Failure Detection 9P(9/9)
+      Day 2 - Failure Detection 9P(9/9) 16th Feb
    
-      Day 2 - Leader Election 10P(1/10)
+      Day 2 - Leader Election 10P(1/10) 17th Feb / Review D1 D2
    
       Day 3 - Replication and Consistency 25P
    
