@@ -44,6 +44,7 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
 - [ ] [All you need is DAG](https://arxiv.org/pdf/2102.08325.pdf)
 - [ ] [Casper](https://arxiv.org/pdf/1710.09437.pdf)
 - [ ] [Dolev-Strong Protocol](https://decentralizedthoughts.github.io/2019-12-22-dolev-strong/)
+- [ ] [Narwhal and Tusk](https://arxiv.org/pdf/2105.11827.pdf)
 
 ### Data Structures
 - [x] [Sparse Merkle Trees](https://eprint.iacr.org/2016/683.pdf)
