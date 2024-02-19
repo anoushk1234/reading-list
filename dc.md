@@ -10,17 +10,17 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
       
       Day 2 - Failure Detection 9P(9/9) 16th Feb
    
-      Day 2 - Leader Election 10P(10/10) 17th Feb / Review D1 D2
+      Day 3 - Leader Election 10P(10/10) 17th Feb / Review D1 D2
    
-      Day 3 - Replication and Consistency 25P
+      Day 4 - Replication and Consistency 25P
    
-      Day 4 - Anti Entropy 12P
+      Day 5 - Anti Entropy 12P
    
-      Day 4 - Distributed Transactions 20P
+      Day 6 - Distributed Transactions 20P
    
-      Day 5 - Consensus 30P
+      Day 8 - Consensus 30P
 
-      Day 6 - Transaction Processing 29P
+      Day 9 - Transaction Processing 29P
    
 
 ## Lecture
