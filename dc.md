@@ -12,7 +12,7 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
    
       Day 3 - Leader Election 10P(10/10) 17th Feb / Review D1 D2
    
-      Day 4 - Replication and Consistency 25P(10/25)
+      Day 4 - Replication and Consistency 25P(10/25) 19,21 Feb
    
       Day 5 - Anti Entropy 12P
    
