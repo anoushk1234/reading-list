@@ -14,13 +14,31 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
    
       Day 4 - Replication and Consistency 25P(10/25) 19,21 Feb
    
-      Day 5 - Anti Entropy 12P
+      Day 5 - Anti Entropy 10P
    
-      Day 6 - Distributed Transactions 20P
+      Day 6 - Anti Entropy 2P
    
-      Day 8 - Consensus 30P
+      Day 6 - Distributed Transactions 8P
 
-      Day 9 - Transaction Processing 29P
+      Day 7 - Distributed Transactions 10P
+
+      Day 8 - Distributed Transactions 2P
+   
+      Day 8 - Consensus 8P
+   
+      Day 9 - Consensus 10P
+
+      Day 10 - Consensus 10P
+   
+      Day 11 - Consensus 2P
+
+      Day 11 - Transaction Processing 8P
+
+      Day 12 - Transaction Processing 10P
+
+      Day 13 - Transaction Processing 10P
+
+      Day 14 - Transaction Processing 1P + Paper
    
 
 ## Lecture
