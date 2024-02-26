@@ -14,7 +14,7 @@ Credits: Thanks to Alex Petrov for answering my questions non stop in his discor
    
       Day 4 - Replication and Consistency 10P 19,21 Feb
 
-      Day 5 - Replication and Consistency 10P + 5 Extra
+      Day 5 - Replication and Consistency 10P + 5 Extra (26th Feb Done)
    
       Day 6 - Anti Entropy 10P
    
