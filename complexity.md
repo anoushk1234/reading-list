@@ -42,3 +42,5 @@ for some constant 𝐶>0; such a running time is known as sub-exponential. Other
    - A: if soln can be verified in poly time
    - B: if every problem in np can be reduced to this problem in poly time
    - Ex: vertex cover
+
+Refs: https://www.cs.cornell.edu/courses/cs6820/2021fa/handouts/npcomp.pdf
